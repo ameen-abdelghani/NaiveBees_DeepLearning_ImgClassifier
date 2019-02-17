@@ -1,4 +1,4 @@
-**A honey bee (Apis)**
+**A honey Bee (Apis)**
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Bee-apis.jpg/337px-Bee-apis.jpg)
 
