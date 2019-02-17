@@ -35,4 +35,4 @@ Being able to identify bee species from images is a task that ultimately would a
    
 ### Next Steps
 
-Deploy the model using flask to make it accesable, and perform tests on new data. 
+Deploy the model using flask to make it accessable, and perform tests on new data. 
